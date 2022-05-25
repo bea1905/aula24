@@ -3,4 +3,18 @@
   <groupId>SistemaVenda</groupId>
   <artifactId>SistemaVenda</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+	<dependency>
+    	<groupId>com.google.guava</groupId>
+   	 	<artifactId>guava</artifactId>
+    	<version>31.1-jre</version>
+	</dependency>
+  </dependencies>
+  
+  
+  	
+  	
 </project>
